@@ -1,4 +1,7 @@
-# Retune
+# Relia
+
+> relia is a Ukrainian national music instrument
+
 Simple regex for humans
 
 This project is inspired by Melody
