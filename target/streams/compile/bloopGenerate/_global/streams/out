@@ -1,0 +1,4 @@
+[debug] [retune] Classpath dependencies List()
+[debug] [retune] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'retune' to '/Users/orreksu/home/scala/retune/.bloop/retune.json'
+[success] Generated .bloop/retune.json
