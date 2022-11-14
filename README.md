@@ -8,3 +8,7 @@ This project is inspired by Melody
 
 ## Things
 - No new types, just operate on standart Scala [[Regex]]
+
+
+## Similar in other languages
+- [rex](https://github.com/hedhyw/rex) in Go
